@@ -1,5 +1,4 @@
 # andrea.cucchi
-<!DOCTYPE html>
 <html>
 <head>
   <title> SITO HTML </title>
