@@ -10,9 +10,8 @@ div.titolo {
 }	
 </style>
 </head>
-
-<body>
 <body style="background-color:black;">
+    <div class="cities">
   <h1 style="text-align:center;" style="font-size:300%; "style="font-family:arial;"> bwbbsws </h1>
   <p style="font-size:160%; "style="font-family:arial;"> bwsuixgsuiw </p>
   
